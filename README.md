@@ -16,7 +16,7 @@ Only the following games and revisions have been tested with this fork on Window
 - **The House of the Dead 4 Rev C**
 - **OutRun 2 SP SDX Rev A**
 - **Sega Race TV** (including linked play on one PC)
-- **Virtua Fighter 5 Final Showdown Rev B**
+- **Virtua Fighter 5 Final Showdown Rev A and Rev B**
 - **Virtua Tennis 3** (all revisions)
 
 Other games and revisions have not been tested with this fork. Recognition by the loader does not mean a game has been tested or confirmed working on Windows.
