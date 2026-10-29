@@ -9,6 +9,18 @@ LindLoader has two parts:
 
 LindLoader does not include or download games, and it does not decrypt anything. Use clean dumps of games you own.
 
+## Tested games
+
+Only the following games and revisions have been tested with this fork on Windows:
+
+- **The House of the Dead 4 Rev C**
+- **OutRun 2 SP SDX Rev A**
+- **Sega Race TV** (including linked play on one PC)
+- **Virtua Fighter 5 Final Showdown Rev B**
+- **Virtua Tennis 3 Rev C**
+
+Other games and revisions have not been tested with this fork. Recognition by the loader does not mean a game has been tested or confirmed working on Windows.
+
 ## What's different in our Linux Loader
 
 - **Vsync and frame pacing:** an adaptive frame repeat, so games hold a steady 60 fps on high-refresh displays without tearing.
